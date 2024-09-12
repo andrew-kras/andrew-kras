@@ -6,9 +6,9 @@ Frontend developer (vue.js) and QA Engineer
 
 I am a frontend developer with a background in both manual and automated testing. Two years ago, I transitioned into the world of frontend development, where I now specialize in Vue 3. I am passionate about continuous learning and always strive to expand my skill set.
 
-* 🌍  I'm based in Mosow
-* ✉️  You can contact me at [https://t.me/jlugoeg](mailto:https://t.me/jlugoeg)
-* 🤝  I'm open to collaborating on interesting projects where I can consolidate my knowledge of frontend development
+* 🌍  I'm based in Mosow
+* ✉️  You can contact me at [https://t.me/jlugoeg](mailto:https://t.me/jlugoeg)
+* 🤝  I'm open to collaborating on interesting projects where I can consolidate my knowledge of frontend development
 * 🧠  I'm practicing on [https://leetcode.com/jlugoeg/](mailto:https://leetcode.com/jlugoeg/)
 
 ### Skills
