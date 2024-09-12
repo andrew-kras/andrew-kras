@@ -26,9 +26,7 @@ I am a frontend developer with a background in both manual and automated testing
 <p align="left">
   <a href="https://t.me/jlugoeg" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/354202/telegram.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/354202/telegram.svg" />
-      <img src="https://www.svgrepo.com/show/354202/telegram.svg" width="32" height="32" />
+      <img src="icons/telegram.svg" width="32" height="32" />
     </picture>
   </a>
 </p>
