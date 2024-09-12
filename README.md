@@ -26,4 +26,4 @@ I am a frontend developer with a background in both manual and automated testing
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/andrew-kras" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username= andrew-kras&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/andrew-kras" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-kras&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
