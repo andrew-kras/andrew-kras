@@ -9,7 +9,7 @@ I am a frontend developer with a background in both manual and automated testing
 * 🌍  I'm based in Mosow
 * ✉️  You can contact me at [https://t.me/jlugoeg](mailto:https://t.me/jlugoeg)
 * 🤝  I'm open to collaborating on interesting projects where I can consolidate my knowledge of frontend development
-* 🧠  I'm practicing on [https://leetcode.com/jlugoeg/](mailto:https://leetcode.com/jlugoeg/)
+* 🧠  I'm practicing on [https://leetcode.com/jlugoeg/](https://leetcode.com/jlugoeg/)
 
 ### Skills
 
