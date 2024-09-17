@@ -35,19 +35,4 @@ I am a frontend developer with a background in both manual and automated testing
 
 <b>My GitHub Stats</b>
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/andrew-kras">
-        <img src="https://github-readme-stats.vercel.app/api?username=andrew-kras&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="andrew-kras's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/andrew-kras">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-kras&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <a href="https://github.com/andrew-kras" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-kras&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
