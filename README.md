@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer (vue.js) and QA Engineer
 -------------------------------------------
 
-I am a frontend developer with a background in both manual and automated testing. Two years ago, I transitioned into the world of frontend development, where I now specialize in Vue 3.
-
 * 🌍  I'm based in Mosow
 * ✉️  You can contact me at [https://t.me/jlugoeg](mailto:https://t.me/jlugoeg)
 * 🤝  I'm open to collaborating on interesting projects where I can consolidate my knowledge of frontend development
